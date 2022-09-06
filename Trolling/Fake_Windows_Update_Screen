@@ -12,5 +12,5 @@ GUI r
 DELAY 1000
 STRING https://fakeupdate.net/win10ue/
 ENTER 
-DELAY 1000 
+DELAY 2000
 F11
